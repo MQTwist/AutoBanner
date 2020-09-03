@@ -1,0 +1,30 @@
+PODS:
+  - Aspects (1.4.1)
+  - Masonry (1.1.0)
+  - SDCycleScrollView (1.80):
+    - SDWebImage (>= 5.0.0)
+  - SDWebImage (5.8.3):
+    - SDWebImage/Core (= 5.8.3)
+  - SDWebImage/Core (5.8.3)
+
+DEPENDENCIES:
+  - Aspects
+  - Masonry
+  - SDCycleScrollView
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Aspects
+    - Masonry
+    - SDCycleScrollView
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDCycleScrollView: b3c9a5ed840c771c4938978174c7c9d9feefeb96
+  SDWebImage: 112503ec94a5a2a41869503844a15e8d8f1ead5c
+
+PODFILE CHECKSUM: d606dcde0486e9655d12cbe809b5695126d6a29d
+
+COCOAPODS: 1.9.3
